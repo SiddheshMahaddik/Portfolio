@@ -1,2 +1,2 @@
 # Portfolio
-My Data Scientist Portfolio
+My Financial Analyst Portfolio
